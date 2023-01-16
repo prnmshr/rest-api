@@ -1,0 +1,38 @@
+[
+    {
+    "nama" : "Purnama Ashari",
+    "nim" : "H1101211065",
+    "Prodi" : "Sistem Informasi",
+    "Angkatan" : 2021,
+    "Status kelulusan" : false,
+    "hobi" : [
+        "belajar",
+        "menggambar",
+        "coding",
+        "bernyanyi"
+    ],
+    "IP" : {
+        "IPS1" : 3.92,
+        "IPS2" : 3.89,
+        "IPK" : 3.9
+    }
+    },
+
+    {
+        "nama" : "Nurdila",
+        "nim" : "H1101211041",
+        "Prodi" : "Sistem Informasi",
+        "Angkatan" : 2021,
+        "Status kelulusan" : false,
+        "hobi" : [
+            "belajar",
+            "bernyanyi"
+        ],
+        "IP" : {
+            "IPS1" : 3.76,
+            "IPS2" : 3.7,
+            "IPK" : 3.73
+        }
+    }
+
+]
